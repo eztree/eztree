@@ -1,16 +1,18 @@
-### Hi there 👋
+### Howdy, stranger!
 
-<!--
-**eztree/eztree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The name's Erin. Some people call me Tree. 🌳 What's your story?
 
-Here are some ideas to get you started:
+<i>Here's mine, in brief --</i>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an aspiring full stack developer who loves bringing great products to life.
+
+In my past lives, I:
+<ul>
+  <li>🎥 Took coffee orders for a film crew </li>
+  <li>📰 Begged journalists for coverage as a PR executive </li>
+  <li>👩🏻‍🌾 Worked on farms in New Zealand</li>
+</ul>
+
+Outside of tech, I love to hike and write. Always up for a good story.
+
+<hr>
